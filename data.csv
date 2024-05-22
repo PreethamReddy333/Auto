@@ -1,0 +1,35 @@
+Car Type,Brand,Model,Price,Variants,Specs,Similar Cars
+Coupe,BMW,2 Series Coupe,"40,000 - 150,000",M Sport, xDrive, Gran Coupe,"Various engine options, luxurious interiors, advanced technology features.",Audi A5 Coupe, Mercedes-Benz C-Class Coupe, Lexus RC Coupe
+Coupe,BMW,4 Series Coupe,"45,000 - 160,000",M Sport, xDrive, Gran Coupe,"Powerful engines, sporty design, advanced infotainment system.",Audi A5 Coupe, Mercedes-Benz C-Class Coupe, Lexus RC Coupe
+Coupe,BMW,8 Series Coupe,"85,000 - 200,000",M Sport, xDrive, Gran Coupe,"Luxurious interior, cutting-edge technology, high-performance engines.",Audi A5 Coupe, Mercedes-Benz C-Class Coupe, Lexus RC Coupe
+Coupe,BMW,M2 Coupe,"60,000 - 80,000",Competition, CS,"High-performance engine, track-focused design, lightweight construction.",Audi RS 5 Coupe, Mercedes-AMG C 63 Coupe, Lexus RC F
+Coupe,BMW,M4 Coupe,"070,000 - 090,000",Competition, CS,"Track-focused performance, aggressive styling, advanced technology.",Audi RS 5 Coupe, Mercedes-AMG C 63 Coupe, Lexus RC F
+Coupe,Mercedes-Benz,C-Class Coupe,"050,000 - 0200,000",AMG Line, 4MATIC, Cabriolet,"Luxury materials, advanced technology, sporty design.",BMW 4 Series Coupe, Audi A5 Coupe, Lexus RC Coupe
+Coupe,Mercedes-Benz,E-Class Coupe,"060,000 - 0250,000",AMG Line, 4MATIC, Cabriolet,"Luxurious interiors, cutting-edge technology, powerful engines.",BMW 4 Series Coupe, Audi A5 Coupe, Lexus RC Coupe
+Coupe,Mercedes-Benz,S-Class Coupe,"090,000 - 0250,000",AMG Line, 4MATIC, Cabriolet,"Premium materials, advanced features, top-of-the-line performance.",BMW 4 Series Coupe, Audi A5 Coupe, Lexus RC Coupe
+Coupe,Mercedes-Benz,CLS Coupe,"070,000 - 120,000",AMG Line, 4MATIC, Cabriolet,"Luxurious interior, sporty design, advanced safety features.",BMW 4 Series Coupe, Audi A5 Coupe, Lexus RC Coupe
+Coupe,Mercedes-Benz,AMG GT Coupe,"100,000 - 200,000",Base, S, C, R,"Powerful engines, luxurious interiors, advanced infotainment.",BMW 8 Series Coupe, Audi S5 Coupe, Lexus LC Coupe
+Coupe,Audi,A5 Coupe,"45,000 - 100,000",Quattro, Black Edition, Cabriolet,"Luxury features, powerful engines, advanced technology.",BMW 4 Series Coupe, Mercedes-Benz C-Class Coupe, Lexus RC Coupe
+Coupe,Audi,S5 Coupe,"55,000 - 150,000",Quattro, Black Edition, Cabriolet,"Sporty design, luxurious interiors, cutting-edge technology.",BMW 4 Series Coupe, Mercedes- Benz C-Class Coupe, Lexus RC Coupe
+Coupe,Audi,RS 5 Coupe,"70,000 - 110,000",Quattro, Black Edition, Cabriolet,"High-performance engine, dynamic handling, advanced infotainment.",BMW M4 Coupe, Mercedes-AMG C 63 Coupe, Lexus RC F
+Coupe,Audi,TT Coupe,"50,000 - 70,000",Base, S, RS,"Sporty design, agile handling, advanced features.",BMW 2 Series Coupe, Mercedes-Benz CLA Coupe, Porsche 718 Cayman
+Coupe,Audi,R8 Coupe,"150,000 - 200,000",RWS, Spyder, Decennium,"High-performance engine, aerodynamic design, advanced technology.",Lamborghini Huracan, Ferrari 488 GTB, Porsche 911 Turbo
+Coupe,Porsche,911 Coupe,"90,000 - 200,000",Turbo, GTS, GT4,"Legendary performance, iconic design, precision engineering.",Audi R8, Mercedes-AMG GT, Nissan GT-R
+Coupe,Porsche,718 Cayman,"60,000 - 100,000",S, GTS, GT4,"Agile handling, powerful engines, sporty design.",BMW M4 Coupe, Audi TT RS, Mercedes-AMG C 63 Coupe
+Coupe,Porsche,Panamera Coupe,"90,000 - 200,000",4S, Turbo, Turbo S,"Luxurious interiors, cutting-edge technology, high-performance engines.",Audi A7 Coupe, BMW 8 Series Gran Coupe, Mercedes-Benz CLS Coupe
+Coupe,Porsche,Cayenne Coupe,"70,000 - 150,000",S, Turbo, Turbo S,"Sporty design, powerful engines, advanced technology.",BMW X6 Coupe, Mercedes-Benz GLE Coupe, Audi Q8
+Coupe,Porsche,Taycan Coupe,"100,000 - 200,000",4S, Turbo, Turbo S,"Instant acceleration, long-range capability, innovative design.",Tesla Model S, Jaguar I-PACE, Audi e-tron GT
+Coupe,Lexus,RC Coupe,"50,000 - 100,000",F Sport, Hybrid, Track Edition,"Luxury features, smooth performance, cutting-edge technology.",BMW 8 Series Coupe, Audi S5 Coupe, Mercedes-Benz S-Class Coupe
+Coupe,Lexus,LC Coupe,"90,000 - 120,000",Base, F Sport, Hybrid,"High-performance engine, luxurious interiors, advanced safety features.",Porsche 911 Coupe, Audi R8, Mercedes-AMG GT
+Coupe,Ferrari,F8 Tributo,"300,000 - 400,000",Base, Spider,"High-performance V8 engine, stunning design, advanced aerodynamics.",Lamborghini Huracan, McLaren 720S, Audi R8
+Coupe,Ferrari,812 Superfast,"350,000 - 500,000",Base, Spider,"Naturally aspirated V12 engine, breathtaking performance, luxurious interiors.",Lamborghini Aventador, McLaren 720S, Bentley Continental GT
+Coupe,Ferrari,SF90 Stradale,"600,000 - 700,000",Base,"Hybrid powertrain, exceptional handling, cutting-edge technology.",Porsche 911 Turbo S, Audi R8, McLaren GT
+Coupe,Lamborghini,Huracan Coupe,"200,000 - 300,000",EVO, EVO RWD, Performante,"Exotic design, powerful V10 engine, advanced aerodynamics.",Ferrari 488 GTB, McLaren 720S, Porsche 911 Turbo
+Coupe,Lamborghini,Aventador Coupe,"400,000 - 500,000",S, SVJ,"Iconic design, monstrous V12 engine, blistering performance.",Ferrari SF90 Stradale, McLaren Speedtail, Bugatti Chiron
+Coupe,Lamborghini,Urus,"200,000 - 300,000",Standard, Pearl Capsule, Graphite Capsule,"Luxury SUV, high-performance capabilities, cutting-edge technology.",Porsche Cayenne, Audi RS Q8, BMW X5 M
+Coupe,McLaren,570S Coupe,"200,000 - 250,000",Luxury, Track, Spider,"Lightweight construction, powerful engine, precision handling.",Porsche 911 Turbo, Audi R8, Ferrari 488 GTB
+Coupe,McLaren,720S Coupe,"300,000 - 350,000",Standard, Performance, Spider,"Aerodynamic design, twin-turbo V8 engine, track-focused performance.",Lamborghini Huracan, Ferrari SF90 Stradale, Porsche 911 GT3 RS
+Coupe,McLaren,Artura,"200,000 - 250,000",Standard, Performance,"Hybrid powertrain, exceptional handling, futuristic design.",Porsche 911 Turbo S, Ferrari SF90 Stradale, Aston Martin Vantage
+Coupe,Aston Martin,Vantage,"150,000 - 200,000",Base, AMR, Vantage F1 Edition,"Aggressive design, powerful engine, athletic performance.",Porsche 911 Turbo, Audi R8, McLaren 570S
+Coupe,Aston Martin,DB11 Coupe,"200,000 - 250,000",Base, AMR, Volante,"Elegant design, potent V12 engine, luxurious interiors.",Ferrari Portofino, Bentley Continental GT, Mercedes-AMG GT
+Coupe,Aston Martin,DBS Superleggera,"300,000 - 350,000",Base, Volante,"Stunning design, monstrous V12 engine, exhilarating performance.",Ferrari 812 Superfast, Bentley Continental GT, Lamborghini Aventador
